@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suyasht09
 - 👀 I’m interested in full stack web development and specially frontend development 
-- 🌱 I’m currently learning C, adv C, CSS, web development
+- 🌱 I’m currently learning C++, java script, Advanced PHP
 - 💞️ I’m looking to collaborate on developing a website 
 - 📫 How to reach me You can reach me by email
 And my mail is tiwarisuyash700@gmail.com
