@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Suyasht09
-- 👀 I’m interested in frontend development and specially frontend development 
+- 👀 I’m interested in full stack web development and specially frontend development 
 - 🌱 I’m currently learning C, adv C, CSS, web development
 - 💞️ I’m looking to collaborate on developing a website 
 - 📫 How to reach me You can reach me by email
