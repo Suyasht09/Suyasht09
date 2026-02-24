@@ -1,4 +1,4 @@
-![My Views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=green&label=Visits)   
+![Profile views](https://komarev.com/ghpvc/?username=your-github-username)   
 - 👋 Hi, I’m @Suyasht09
 - 👀 I’m interested in full stack web development and specially frontend development 
 - 🌱 I’m currently learning C++, java script, Advanced PHP
