@@ -1,8 +1,6 @@
 ![My Views](https://komarev.com/ghpvc/?username=Suyasht09&style=flat-square&color=green&label=Visits)   
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SuyashT0911&label=👀%20Profile%20Views&color=blueviolet&style=for-the-badge"/>
-</p>
+
 
 
   
